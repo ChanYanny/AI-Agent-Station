@@ -1,0 +1,1 @@
+package top.ibytewave.domain.yyy.model.entity;
